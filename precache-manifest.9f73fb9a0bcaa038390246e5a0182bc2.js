@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28c4485edf75cb99f5c679a5ee885a08",
+    "revision": "88bdebe91cc7dfbb0f417cef5d6cb908",
     "url": "/RoboSquad/index.html"
   },
   {
-    "revision": "f616b206aa6310baacc8",
+    "revision": "ea9e3e1d79cbdc63ed46",
     "url": "/RoboSquad/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "9fad9bdd0cb452e00b56",
+    "revision": "545da2a3dc59a42cdba9",
     "url": "/RoboSquad/static/css/main.2214b758.chunk.css"
   },
   {
-    "revision": "f616b206aa6310baacc8",
-    "url": "/RoboSquad/static/js/2.5bfb6050.chunk.js"
+    "revision": "ea9e3e1d79cbdc63ed46",
+    "url": "/RoboSquad/static/js/2.5a75dec3.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/RoboSquad/static/js/2.5bfb6050.chunk.js.LICENSE.txt"
+    "revision": "c64c486544348f10a6d6c716950bc223",
+    "url": "/RoboSquad/static/js/2.5a75dec3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9fad9bdd0cb452e00b56",
-    "url": "/RoboSquad/static/js/main.5821a262.chunk.js"
+    "revision": "545da2a3dc59a42cdba9",
+    "url": "/RoboSquad/static/js/main.ce994f5b.chunk.js"
   },
   {
     "revision": "66b1b6d05eee266ad708",
