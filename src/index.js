@@ -1,4 +1,6 @@
 import React from 'react';
+import {Helmet} from "react-helmet";
+
 import ReactDOM from 'react-dom';
 import {Provider} from 'react-redux';
 import {createLogger} from 'redux-logger'
@@ -17,6 +19,9 @@ const store = createStore(rootReducer,applyMiddleware(thunkMiddleware,logger));
 
 ReactDOM.render(
 	<Provider store={store}>
+		<Helmet>
+			<title> Robo-Squad </title>
+		</Helmet>
 		<App />
 	</Provider>,
   document.getElementById('root')
